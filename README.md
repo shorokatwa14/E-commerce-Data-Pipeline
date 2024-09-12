@@ -1,4 +1,4 @@
-# E-commerce Data Pipeline with PySpark
+# Batch and Streaming E-commerce Data Pipeline with PySpark
 
 ## Overview
 This project demonstrates a PySpark-based data pipeline for batch and real-time processing of e-commerce data, including data ingestion, cleaning, transformation, analysis, and visualization.
