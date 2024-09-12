@@ -4,7 +4,7 @@ import time
 # Configuration
 host = 'localhost'
 port = 9999
-file_path = "/home/shorokatwa14/Documents/SIC_Spark_Mini/large_inventory.json"  
+file_path = "/home/shorokatwa/Documents/large_inventory.json"  
 
 # Create a socket and bind it to the address and port
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
