@@ -22,6 +22,6 @@ This project is part of the Samsung Innovation Campus training .this project dem
 4. **Analysis**: Run SQL queries for insights (top products, revenue trends).
 5. **Optimization**: Cache, repartition, and broadcast join data for performance.
 6. **Streaming**: Process real-time data via socket streaming.
-7. **Storage**: Save processed data in Parquet format.
+7. **Storage**: Save batch processed data in Parquet format.
 
 
