@@ -1,7 +1,7 @@
 # Batch and Streaming E-commerce Data Pipeline with PySpark
 
 ## Overview
-This project demonstrates a PySpark-based data pipeline for batch and real-time processing of e-commerce data, including data ingestion, cleaning, transformation, analysis, and visualization.
+This project is part of the Samsung Innovation Campus training .this project demonstrates a PySpark-based data pipeline for batch and real-time processing of e-commerce data, including data ingestion, cleaning, transformation, analysis, and visualization.
 
 ## Features
 - Batch data processing from CSV and JSON files (Customer Feedback, Transactions, Inventory)
